@@ -1,0 +1,6 @@
+[project]
+name = "gua"
+version = "1.0.0"
+
+[project.scripts]
+gua = "gua.__main__:gua_entry"
