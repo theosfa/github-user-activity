@@ -82,3 +82,4 @@ To fetch last activity run:
 ```bash
 gua <username> -a
 ```
+[My solution on roadmap.sh](https://roadmap.sh/projects/github-user-activity/solutions?u=67c894f5fe4b7df03b736ad6)
